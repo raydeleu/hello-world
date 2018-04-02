@@ -9,3 +9,5 @@ Here is the first section, starting with a section 2 level header indicated by "
 
 ## Added an extra section
 This is an extra edit started in the "readme-edits" branch as suggested by the hello world tutorial over at github. It is a nice extra paragraph at the end of the original text, but I will also add some text in between existing text. 
+
+![](https://guides.github.com/activities/hello-world/branching.png)
