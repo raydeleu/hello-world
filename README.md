@@ -25,3 +25,15 @@ However, the image isn't quite complete. In fact they explain the following step
 6) if there are no conflicts to be resolved, click "merge pull request"
 7) click "confirm merge"
 8) now you have the option to delete the branch by clicking "delete branch"
+
+## Git guis
+
+https://www.sourcetreeapp.com
+
+https://desktop.github.com
+
+https://rowanj.github.io/gitx/
+
+
+
+
