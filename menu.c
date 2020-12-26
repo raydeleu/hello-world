@@ -8,12 +8,16 @@ char *menutext(int n);
 
 int main ()
 { int str_number;
+  int main_choice;
 
 
     for (str_number = 0; str_number < 13; str_number++)
     {
         printf ("%s",menutext(str_number));
     }  
+    main_choice = getchar();
+    printf( "\nYou entered: ");
+    putchar( main_choice);
     return 0;
 }
 
